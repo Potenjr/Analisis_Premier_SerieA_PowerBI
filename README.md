@@ -66,8 +66,8 @@ Esquema en **estrella** con una tabla de hechos y tres dimensiones:
 3. **Análisis cruzado Equipo × Liga:** matriz de rendimiento por equipo y ranking Top 10 de goleadores, con drillthrough y marcador para mostrar/ocultar filtros.
 4. **Detalle:** listado completo de partidos del equipo seleccionado (como local y visitante).
 
-![Evolución temporal](images/evolucion_temporal.png)
-![Análisis cruzado](images/analisis_cruzado.png)
+![Evolución temporal](images/Evolucion_temporal.png)
+![Análisis cruzado](images/Analisis_cruzado.png)
 ![Detalle](images/Detalle_drilltrought.png)
 
 ## ⚙️ Funcionalidades destacadas
